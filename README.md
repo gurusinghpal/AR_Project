@@ -1,6 +1,6 @@
 # VR Simple Environment
 
-Welcome to VR Simple Environment, a small project developed as part of a Virtual Reality (VR) course. This project allows users to interact with various 3D objects and navigate through the environment in a virtual reality setting.
+Welcome to VR Simple Environment, a small project developed as part of a Augmented Reality subject. This project allows users to interact with various 3D objects and navigate through the environment in a virtual reality setting.
 
 ## Assets
 
@@ -30,7 +30,3 @@ To get started with VR Simple Environment, follow these steps:
 - **Interacting with Objects**: Use VR controllers to interact with objects. Depending on the script attached to the object, you may be able to change their color, hold them, or trigger other interactions.
 - **Navigating the Environment**: Move around the environment using the provided VR locomotion controls. Use the PlayerWalk script to enable movement within the VR space.
 - **Exiting the Game**: Trigger the ExitGame functionality to exit the VR application.
-
-## Contributing
-
-Contributions to VR Simple Environment are welcome. If you have suggestions for improvements, bug fixes, or additional features, feel free to submit a pull request or open an issue on the project repository.
